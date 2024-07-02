@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaArrowRight } from 'react-icons/fa';
+
 
 const Projects = () => {
     return (
@@ -62,9 +62,9 @@ const Projects = () => {
                     </div>
                     <div className=' flex md:flex-row md:mr-20 flex-col md:justify-end  justify-center items-center'>
 
-                        <a target='_blank' href="https://prodpeek-5820d.web.app/"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Live Link <FaArrowRight /></button></a>
-                        <a target='_blank' href="https://github.com/sayemhossin/ProdPeek-client-12"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Github Link Client<FaArrowRight /></button></a>
-                        <a target='_blank' href="https://github.com/sayemhossin/ProdPeek-server-12"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Github Link Server<FaArrowRight /></button></a>
+                        <a target='_blank' href="https://prodpeek-5820d.web.app/"> <button className='btn btn-link text-[#008cff] text-xl '>Live Link </button></a>
+                        <a target='_blank' href="https://github.com/sayemhossin/ProdPeek-client-12"> <button className='btn btn-link text-[#008cff] text-xl l'>Github  Client</button></a>
+                        <a target='_blank' href="https://github.com/sayemhossin/ProdPeek-server-12"> <button className='btn btn-link text-[#008cff] text-xl '>Github  Server</button></a>
 
                     </div>
 
@@ -129,9 +129,9 @@ const Projects = () => {
                     </div>
                     <div className='absolute bottom-4 md:right-8 right-16 flex md:flex-row md:mr-20 flex-col md:justify-end  justify-center items-center'>
 
-                        <a target='_blank' href="https://pro-alter.web.app"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Live Link <FaArrowRight /></button></a>
-                        <a target='_blank' href="https://github.com/sayemhossin/ProAlter-client-11"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Github Link client<FaArrowRight /></button></a>
-                        <a target='_blank' href="https://github.com/sayemhossin/ProAlter-server-11"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Github Link Server<FaArrowRight /></button></a>
+                        <a target='_blank' href="https://pro-alter.web.app"> <button className='btn btn-link text-[#008cff] text-xl'>Live Link </button></a>
+                        <a target='_blank' href="https://github.com/sayemhossin/ProAlter-client-11"> <button className='btn btn-link text-[#008cff] text-xl'>Github  client</button></a>
+                        <a target='_blank' href="https://github.com/sayemhossin/ProAlter-server-11"> <button className='btn btn-link text-[#008cff] text-xl'>Github  Server</button></a>
 
                     </div>
 
@@ -196,9 +196,9 @@ const Projects = () => {
                     </div>
                     <div className='absolute bottom-4 md:right-8 right-16 flex md:flex-row md:mr-20 flex-col md:justify-end  justify-center items-center'>
 
-                        <a target='_blank' href=" https://assignment-ten-3d34f.web.app"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Live Link <FaArrowRight /></button></a>
-                        <a target='_blank' href="https://github.com/sayemhossin/-ArtisticVista-client-10"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Github Link client<FaArrowRight /></button></a>
-                        <a target='_blank' href="https://github.com/sayemhossin/ArtisticVista-server-10"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Github Link server<FaArrowRight /></button></a>
+                        <a target='_blank' href=" https://assignment-ten-3d34f.web.app"> <button className='btn btn-link text-[#008cff] text-xl '>Live Link </button></a>
+                        <a target='_blank' href="https://github.com/sayemhossin/-ArtisticVista-client-10"> <button className='btn btn-link text-[#008cff] text-xl '>Github client</button></a>
+                        <a target='_blank' href="https://github.com/sayemhossin/ArtisticVista-server-10"> <button className='btn btn-link text-[#008cff] text-xl '>Github server</button></a>
 
                     </div>
 
@@ -213,7 +213,7 @@ const Projects = () => {
                     <h1 className='text-xl md:text-2xl text-gray-300'>Type: <span className='text-[#ffcc00]'>Front End Project</span></h1>
 
 
-                    <p className='text-[#eec10e] md:text-xl'>VacationBliss is your ultimate guide to unforgettable getaways, offering expert tips, destination highlights, and travel advice to enhance every journey. Whether you're planning a relaxing beach escape or an adventurous trek through the mountains, discover inspiration and practical insights to make your vacation dreams a reality.</p>
+                    <p className='text-[#eec10e] md:text-xl'>VacationBliss is your ultimate guide to unforgettable getaways, offering expert tips, destination highlights, and travel advice to enhance every journey. Whether you are planning a relaxing beach escape or an adventurous trek through the mountains, discover inspiration and practical insights to make your vacation dreams a reality.</p>
 
                     <div>
                         <h1 className='text-2xl md:text-3xl text-gray-300'>Features:</h1>
@@ -251,8 +251,8 @@ const Projects = () => {
                     </div>
                     <div className='absolute bottom-4 md:right-8 right-16 flex md:flex-row md:mr-20 flex-col md:justify-end  justify-center items-center'>
 
-                        <a target='_blank' href=" https://assignment-ten-3d34f.web.app"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Live Link <FaArrowRight /></button></a>
-                        <a target='_blank' href="https://github.com/sayemhossin/VacationBliss-9"> <button className='btn btn-link text-[#008cff] text-xl md:text-2xl'>Github Link <FaArrowRight /></button></a>
+                        <a target='_blank' href=" https://assignment-ten-3d34f.web.app"> <button className='btn btn-link text-[#008cff] text-xl '>Live Link </button></a>
+                        <a target='_blank' href="https://github.com/sayemhossin/VacationBliss-9"> <button className='btn btn-link text-[#008cff] text-xl '>Github Link </button></a>
 
                     </div>
 

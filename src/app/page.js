@@ -9,6 +9,7 @@ import Introduction from "@/Components/Introduction";
 import Projects from "@/Components/Projects";
 import Skills from "@/Components/Skills";
 import VideoPlayer from "@/Components/VideoPlayer";
+import Footer from '@/Components/Footer';
 
 export default function Home() {
   useEffect(() => {
@@ -22,6 +23,7 @@ export default function Home() {
       <Education></Education>
       <Skills></Skills>
       <Projects></Projects>
+      <Footer></Footer>
     </main>
   );
 }
