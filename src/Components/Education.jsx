@@ -3,7 +3,7 @@ import { FaArrowRight } from 'react-icons/fa';
 
 const Education = () => {
     return (
-        <div className='md:my-32 lg:my-60'>
+        <div id='Education' className='md:my-32 lg:my-60'>
             <div className='flex  flex-col lg:flex-row justify-evenly'>
                 <div className='text-[#E5B80B] mx-10 md:mx-20'>
                     <h1 data-aos="zoom-in-up" className='text-3xl md:text-5xl text-center text-white'>Education</h1>

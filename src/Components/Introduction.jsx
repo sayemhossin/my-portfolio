@@ -6,7 +6,7 @@ import { FaXTwitter } from "react-icons/fa6";
 
 const Introduction = () => {
     return (
-        <div className='mt-8 md:mt-32 mb-12 lg:mb-52 lg:mt-52 flex justify-around flex-col lg:flex-row items-center'>
+        <div id='About' className='mt-8 md:mt-32 mb-12 lg:mb-52 lg:mt-52 flex justify-around flex-col lg:flex-row items-center'>
             <div className='flex flex-col justify-center items-center'>
                 <div data-aos="flip-left" className="avatar">
                     <div className="ring-[#E5B80B] w-40 lg:w-80 md:w-72  rounded-full ring-8 ring-[#E5B80B]-4">
