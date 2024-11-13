@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { FaDownload, FaFacebook, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaDownload, FaGithub, FaLinkedin } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
 
@@ -26,7 +26,6 @@ const Introduction = () => {
 
                 <p data-aos="fade-down-left" className='md:text-xl lg:text-3xl'><span className='text-[#E5B80B]'>Whatsapp:</span> 01788576261</p>
                 <div className='flex items-center gap-6 md:pt-6'>
-                    <a data-aos="zoom-in-up" target='_blank' href='https://www.facebook.com/sayem.hossin.982'><FaFacebook className='text-3xl md:text-4xl' /></a>
                     <a data-aos="zoom-in-down" target='_blank' href='https://x.com/Sayem112233?t=7aKc7xcqzAB-CC6byTPcwg&s=09'><FaXTwitter className='text-3xl md:text-4xl' /></a>
                     <a data-aos="zoom-in-up" target='_blank' href="https://www.linkedin.com/in/md-sayem-hossin"><FaLinkedin className='text-3xl md:text-4xl' /></a>
                     <a data-aos="zoom-in-down" target='_blank' href="https://github.com/sayemhossin"><FaGithub className='text-3xl md:text-4xl' /></a>

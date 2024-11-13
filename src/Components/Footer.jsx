@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFacebook, FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { FaSquareWhatsapp, FaXTwitter } from 'react-icons/fa6';
 import { MdEmail } from "react-icons/md";
 
@@ -12,7 +12,6 @@ const Footer = () => {
                 <p>I am Sayem  Hossin. Passionate about creating <br className='hidden md:inline' /> and  developing eye catching website.</p>
 
                 <div className='flex items-center mt-5 md:mt-0 gap-6 md:pt-6'>
-                    <a target='_blank' href='https://www.facebook.com/sayem.hossin.982'><FaFacebook className='text-3xl md:text-4xl' /></a>
                     <a  target='_blank' href='https://x.com/Sayem112233?t=7aKc7xcqzAB-CC6byTPcwg&s=09'><FaXTwitter className='text-3xl md:text-4xl' /></a>
                     <a target='_blank' href="https://www.linkedin.com/in/md-sayem-hossin"><FaLinkedin className='text-3xl md:text-4xl' /></a>
                     <a  target='_blank' href="https://github.com/sayemhossin"><FaGithub className='text-3xl md:text-4xl' /></a>
